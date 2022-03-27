@@ -12,14 +12,14 @@
 <p align="center"> Assalamu Alaikum, Hope you are much better. My name is Mehdi Hasan Siam. I study in the class 11 Commerce group and work on my favorite love code programming and I am always interested in learning something new and love to teach others. I love to play my favorite sport football in my spare time and I like to travel a lot from time to time which helps to keep my mind fresh. Dear, Thank you very much, I hope you will always be well.</p>
 
 <br/>
-
+<p align="center">
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Alls People 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Dear You go now my portfolio  
-
+</p>
 <br/>
-<h1 aling="center> My Skills </h1>
+<h1> My Skills </h1>
 <ul>
   <li>Html4/Html5
  </li> 
