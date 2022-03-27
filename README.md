@@ -3,7 +3,7 @@
 <h2 align="center" >My Namme Is 👋, Mehedi Hasan Siam</h2>
 
 ![I am a Web Developer](https://wallpaperaccess.com/full/5673719.jpg)
-<palign="center">
+<p align="center">
 ![Profile views](https://gpvc.arturio.dev/Mehedi10101)
 
 </p>
