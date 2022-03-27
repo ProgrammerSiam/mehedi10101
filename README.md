@@ -17,12 +17,12 @@ Assalamu Alaikum, Hope you are much better. My name is Mehdi Hasan Siam. I study
 <br/>
 # My Skills
 <ul>
-  <li>HTML4/HTML5
+  <li>Html4/Html5
  </li> 
-  <li>CSS/CSS3 </li>
-  <li>BOOTSTRAP4/BOOTSTRAP5 </li>
+  <li>Css/Css3 </li>
+  <li>Bootstrap4/Bootstrap5 </li>
   <li>TainWind CSS</li>
-  <li>Responsive WEb DEsign</li>
+  <li>Responsive Web Design</li>
   <li>Javascript  
 </li>
   <li>React </li>
