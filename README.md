@@ -4,7 +4,7 @@
 
 ![I am a Web Developer](https://wallpaperaccess.com/full/5673719.jpg)
 
-![Profile views](https://gpvc.arturio.dev/Mehedi10101)
+
 
 <br/>
 <br/>
@@ -20,6 +20,7 @@
 </p>
 <br/>
 <h1> My Skills </h1>
+
 <ul>
   <li>Html4/Html5
  </li> 
