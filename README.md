@@ -15,6 +15,18 @@ Assalamu Alaikum, Hope you are much better. My name is Mehdi Hasan Siam. I study
 - 📫 How to reach me: Dear You go now my portfolio  
 
 <br/>
+# My Skills
+<ul>
+  <li>HTML4/HTML5</li><p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+  <li>CSS/CSS3</li>
+  <li>BOOTSTRAP4/BOOTSTRAP5</li>
+  <li>TainWind CSS</li>
+  <li>Responsive WEb DEsign</li>
+
+</ul>
+
+
 
 # Get in touch
 ### If You Want To Know More About Me, Pls Feel Free To Contact With Me Or Follow My Other Social Media. I'm Always Ready For Help You🥰
