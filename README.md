@@ -17,8 +17,8 @@ Assalamu Alaikum, Hope you are much better. My name is Mehdi Hasan Siam. I study
 <br/>
 # My Skills
 <ul>
-  <li>HTML4/HTML5</li><p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
+  <li>HTML4/HTML5<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ </li> 
   <li>CSS/CSS3</li>
   <li>BOOTSTRAP4/BOOTSTRAP5</li>
   <li>TainWind CSS</li>
