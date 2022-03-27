@@ -7,14 +7,14 @@
 
 Assalamu Alaikum, Hope you are much better. My name is Mehdi Hasan Siam. I study in the class 11 Commerce group and work on my favorite love code programming and I am always interested in learning something new and love to teach others. I love to play my favorite sport football in my spare time and I like to travel a lot from time to time which helps to keep my mind fresh. Dear, Thank you very much, I hope you will always be well.
 
-<br>
+<br/>
 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Alls People 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Dear You go now my portfolio  
 
-<br>
+<br/>
 
 
 
@@ -24,7 +24,7 @@ Assalamu Alaikum, Hope you are much better. My name is Mehdi Hasan Siam. I study
 
 
 <br/>
-<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi10101)](https://github.com/anuraghazra/github-readme-stats)
 
