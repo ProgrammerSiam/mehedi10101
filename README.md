@@ -2,8 +2,9 @@
 
 <h2 align="center" >My Namme Is 👋, Mehedi Hasan Siam</h2>
 
-### I am a Web Developer
+<h2 align="center"I> am a Web Developer</h3>
 ![I am a Web Developer](https://wallpaperaccess.com/full/5673719.jpg)
+
 ![Profile views](https://gpvc.arturio.dev/Mehedi10101)
 
 <br/>
@@ -19,7 +20,7 @@
 - 📫 How to reach me: Dear You go now my portfolio  
 
 <br/>
-<h1> My Skills </h1>
+<h1 aling="center> My Skills </h1>
 <ul>
   <li>Html4/Html5
  </li> 
