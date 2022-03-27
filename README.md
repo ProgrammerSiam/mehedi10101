@@ -4,7 +4,6 @@
 
 <h2 align="center"I> am a Web Developer</h3>
 ![I am a Web Developer](https://wallpaperaccess.com/full/5673719.jpg)
-
 ![Profile views](https://gpvc.arturio.dev/Mehedi10101)
 
 <br/>
